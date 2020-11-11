@@ -23,7 +23,7 @@ Sebagai tambahan, kita dapat menambahkan genre untuk mendapatkan film teratas un
 
 # Formula dari IMDB dengan Weighted Rating
 
-![](data\gbr1.png)
+![](data/gbr1.png)
 
 dimana,   
 
